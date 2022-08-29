@@ -7,4 +7,7 @@ U terminalu pises cd anjavue
 Posle toga terminalu pises npm install
 Nakon toga npm run serve
 
-I to je to , a da NMSK. Ode mi 12 sati zivota na ovo
+I to je to , a da NMSDMK. Ode mi 12 sati zivota na ovo. 
+
+Start - 28.9.22  [9:00 PM]
+End - 29.9.22 [7:00 AM]
